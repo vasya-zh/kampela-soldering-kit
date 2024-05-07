@@ -2,26 +2,17 @@
 
 0. First you need to solder the base-board with soldering iron, soldering wire and a lot of flux
 
-!Note 1: don't forget to use a safety glass and fume extractor (simple 80mm PC vent suits too) too prevent cancer and eye deseases.
-!Note 2: The sun is bright, the water is wet, a soldering iron is hot - be carefull!
+> [!CAUTION]
+> Don't forget to use a safety glass and fume extractor (simple 80mm PC vent suits too) too prevent cancer and eye deseases.
+> The sun is bright, the water is wet, a soldering iron is hot - be carefull!
 
 ![Base-board assembly manual 01](images/01_assembly-manual-base-board.png)
 
 ![Base-board assembly manual 02](images/02_assembly-manual-base-board.png)
 
+1. Perfect! Now lets cut all the wires on the back side of the base board not higher than 0.5mm and clean the board from flux remains with isopropanol or other solvent
 
-
-0.1. Place and solder FPC adapter board on base-board with 6 soldering points
-0.2. Place and solder BB-PWR-3608 and BabyBuck 3.3V - red modules with short insulated or non insulated copper wires
-0.3. Solder all the resistors 10k, 47k and 300k in their places
-0.4. Solder all the diodes including 13V Zener (1N4743A) and Schottky (1N5819) diodes 
-
-0.5. Bend to 90 degrees (as short as possible) and solder 3mm red LED (or use the color you want) to the base-board. 
-0.6. Place and solder comparator IC (TLC372IP) and 24V linear regulator (L7824) as close to the board as possible (it will help you to make flat assembled device).
-0.7. Place and solder all capacitors - ceramic disc 15pF, 100pF, 100nF, 1uF (50V or higer voltage) and then aluminium 220uF (not less then 25V)
-0.8. Place and solder Lisko A1 board to the base board using two 15-pins PLS 2.54-pitch male connectors.
-
-1. Perfect! Now lets cut all the wires on the back side of the base board to 0.5mm max and clean the board from flux remains with isopropanol or other solvent
+![Base-board assembly manual 03](images/03_assembly-manual-base-board-cut.png)
 
 2. Solder the flex coil to the base board with 2 soldering points as shown below. Use water cleanable or non-clean flux, we don't want to demage flex coil sticker layer with solvent.
 
