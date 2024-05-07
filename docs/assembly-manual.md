@@ -5,7 +5,11 @@
 !Note 1: don't forget to use a safety glass and fume extractor (simple 80mm PC vent suits too) too prevent cancer and eye deseases.
 !Note 2: The sun is bright, the water is wet, a soldering iron is hot - be carefull!
 
-![Base-board assembly manual](images/01_assembly-manual-base-board.png)
+![Base-board assembly manual 01](images/01_assembly-manual-base-board.png)
+
+![Base-board assembly manual 02](images/02_assembly-manual-base-board.png)
+
+
 
 0.1. Place and solder FPC adapter board on base-board with 6 soldering points
 0.2. Place and solder BB-PWR-3608 and BabyBuck 3.3V - red modules with short insulated or non insulated copper wires
