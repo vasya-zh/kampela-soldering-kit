@@ -1,30 +1,19 @@
 ## Assembly instructions
 
-> [!CAUTION]
-> Don't forget to use a safety glass and fume extractor (simple 80mm PC vent suits too) too prevent cancer and eye deseases.
+> [!SAFETY CAUTION]
+> Use the safety glass and fume extractor (simple 80mm PC vent suits too) too prevent cancer and eye deseases.
+
 > The sun is bright, the water is wet, a soldering iron is hot - be carefull!
 
 0. First you need to solder the base-board with soldering iron, soldering wire and a lot of flux
 
-	Lets start with a FPC adapter, power modules, resistors and diodes:
+## Base-board assembly
 
-	1. Place and solder FPC adapter board on base-board with 6 soldering points:
-	![Base-board assembly manual 01](images/01-base-board-assembly-manual.png)
+1. Place and solder FPC adapter board on base-board with 6 soldering points:
+![Base-board assembly manual 01](images/01-base-board-assembly-manual.png)
 
-	2. Place and solder BB-PWR-3608 and BabyBuck 3.3V - red modules with short insulated or non insulated copper wires:
-	![Base-board assembly manual 01](images/02-base-board-assembly-manual.png)
-
-	2. Place and solder BB-PWR-3608 and BabyBuck 3.3V - red modules with short insulated or non insulated copper wires:
-	![Base-board assembly manual 01](images/02-base-board-assembly-manual_.png)
-
-	2. Place and solder BB-PWR-3608 and BabyBuck 3.3V - red modules with short insulated or non insulated copper wires:
-	![Base-board assembly manual 01](images/02-base-board-assembly-manual__.png)
-
-	2. Place and solder BB-PWR-3608 and BabyBuck 3.3V - red modules with short insulated or non insulated copper wires:
-	![Base-board assembly manual 01](images/02-base-board-assembly-manual___.png)
-
-	2. Place and solder BB-PWR-3608 and BabyBuck 3.3V - red modules with short insulated or non insulated copper wires:
-	![Base-board assembly manual 01](images/02-base-board-assembly-manual____.png)
+2. Place and solder BB-PWR-3608 and BabyBuck 3.3V - red modules with short insulated or non insulated copper wires:
+![Base-board assembly manual 01](images/02-base-board-assembly-manual.png)
 
 	![Base-board assembly manual 01](images/01_assembly-manual-base-board.png)
 
