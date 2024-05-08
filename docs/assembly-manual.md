@@ -1,16 +1,14 @@
-## Assembly instructions
+## Assembly manual
 
 > [!WARNING]
 > Use the safety glass and fume extractor (simple 80mm PC vent suits too) to prevent cancer and eye deseases.<br>
 > The sun is bright, the water is wet, a soldering iron is hot - be carefull!
 
-
-
 ## Base-board assembly
 
-0. You need:
+0. Tools and materials:
 - a soldering iron, 
-- soldering wire, 
+- a soldering wire, 
 - a lot of flux, 
 - any cleaning solvent to clean flux after assembly (isopropanol etc) 
 - and a good side cutters. 
@@ -39,16 +37,17 @@
 
 ![Base-board assembly manual 06](images/06-base-board-assembly-manual.png)
 
+7. Place and solder all capacitors - ceramic disc 15pF, 100pF, 100nF, 1uF (50V or higer voltage) and then aluminium 220uF (not less then 25V)
 
-	![Base-board assembly manual 01](images/01_assembly-manual-base-board.png)
+![Base-board assembly manual 07](images/07-base-board-assembly-manual.png)
 
-	Then mount LED, LDO and comparator, all the capacitors and finilly Lisko board:
+8. Place and solder Lisko A1 board to the base board using two 15-pins PLS 2.54-pitch male connectors.
 
-	![Base-board assembly manual 02](images/02_assembly-manual-base-board.png)
+![Base-board assembly manual 08](images/08-base-board-assembly-manual.png)
 
-1. Perfect! Now lets cut all the wires on the back side of the base board not higher than 0.5mm and clean the board from flux remains with isopropanol or other solvent
+9. Perfect! Now lets cut all the wires on the back side of the base board not higher than 0.5mm and clean the board from flux remains with isopropanol or other solvent
 
-	![Base-board assembly manual 03](images/03_assembly-manual-base-board-cut.png)
+![Base-board assembly manual 03](images/03_assembly-manual-base-board-cut.png)
 
 2. Solder the flex coil to the base board with 2 soldering points as shown below. Use water cleanable or non-clean flux, we don't want to demage flex coil sticker layer with solvent.
 
