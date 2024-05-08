@@ -1,12 +1,19 @@
 ## Assembly instructions
 
 > [!WARNING]
-> Use the safety glass and fume extractor (simple 80mm PC vent suits too) too prevent cancer and eye deseases.<br>
+> Use the safety glass and fume extractor (simple 80mm PC vent suits too) to prevent cancer and eye deseases.<br>
 > The sun is bright, the water is wet, a soldering iron is hot - be carefull!
 
-0. First you need to solder the base-board with soldering iron, soldering wire and a lot of flux
+
 
 ## Base-board assembly
+
+0. You need:
+- a soldering iron, 
+- soldering wire, 
+- a lot of flux, 
+- any cleaning solvent to clean flux after assembly (isopropanol etc) 
+- and a good side cutters. 
 
 1. Place and solder FPC adapter board on base-board with 6 soldering points:
 ![Base-board assembly manual 01](images/01-base-board-assembly-manual.png)
@@ -20,6 +27,8 @@
 4. Solder all the diodes including 13V Zener (1N4743A) and Schottky (1N5819) diodes 
 ![Base-board assembly manual 04](images/04-base-board-assembly-manual.png)
 
+5. Bend to 90 degrees (as short as possible) and solder 3mm red LED (or use the color you want) to the base-board. Check the polarity on the bottom side of the board.
+![Base-board assembly manual 04](images/05-base-board-assembly-manual.png)
 
 	![Base-board assembly manual 01](images/01_assembly-manual-base-board.png)
 
