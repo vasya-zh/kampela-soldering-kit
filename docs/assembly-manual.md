@@ -6,7 +6,11 @@
 
 0. First you need to solder the base-board with soldering iron, soldering wire and a lot of flux
 
+	Lets start with a FPC adapter, power modules, resistors and diodes:
+
 	![Base-board assembly manual 01](images/01_assembly-manual-base-board.png)
+
+	Then mount LED, LDO and comparator, all the capacitors and finilly Lisko board:
 
 	![Base-board assembly manual 02](images/02_assembly-manual-base-board.png)
 
