@@ -17,6 +17,9 @@
 	2. Place and solder BB-PWR-3608 and BabyBuck 3.3V - red modules with short insulated or non insulated copper wires:
 	![Base-board assembly manual 01](images/02-base-board-assembly-manual_.png)
 
+	2. Place and solder BB-PWR-3608 and BabyBuck 3.3V - red modules with short insulated or non insulated copper wires:
+	![Base-board assembly manual 01](images/02-base-board-assembly-manual__.png)
+
 	![Base-board assembly manual 01](images/01_assembly-manual-base-board.png)
 
 	Then mount LED, LDO and comparator, all the capacitors and finilly Lisko board:
