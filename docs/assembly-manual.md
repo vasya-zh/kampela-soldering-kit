@@ -12,10 +12,13 @@
 ![Base-board assembly manual 01](images/01-base-board-assembly-manual.png)
 
 2. Place and solder BB-PWR-3608 and BabyBuck 3.3V - red modules with short insulated or non insulated copper wires:
-![Base-board assembly manual 01](images/02-base-board-assembly-manual.png)
+![Base-board assembly manual 02](images/02-base-board-assembly-manual.png)
 
 3. Solder all the resistors 10k, 47k and 300k in their places
-![Base-board assembly manual 01](images/03-base-board-assembly-manual.png)
+![Base-board assembly manual 03](images/03-base-board-assembly-manual.png)
+
+4. Solder all the diodes including 13V Zener (1N4743A) and Schottky (1N5819) diodes 
+![Base-board assembly manual 04](images/04-base-board-assembly-manual.png)
 
 
 	![Base-board assembly manual 01](images/01_assembly-manual-base-board.png)
