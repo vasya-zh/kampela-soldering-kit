@@ -6,14 +6,15 @@
 
 ## Base-board assembly
 
+> [!NOTE]
+> A printable version of the base-board Assembly Manual can be found [here](images/base-board-assembly-manual.svg).<br>
+
 0. Tools and materials:
 - a soldering iron, 
 - a soldering wire, 
 - a lot of flux, 
 - any cleaning solvent to clean flux after assembly (isopropanol etc) 
 - and a good side cutters. 
-
-	A printable version of the base-board Assembly Manual can be found [here](images/base-board-assembly-manual.svg).
 
 1. Place and solder the FPC adapter board on the base-board with 6 soldering points:
 
