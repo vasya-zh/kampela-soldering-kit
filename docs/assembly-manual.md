@@ -8,6 +8,9 @@
 
 	Lets start with a FPC adapter, power modules, resistors and diodes:
 
+	1.Place and solder FPC adapter board on base-board with 6 soldering points
+	![Base-board assembly manual 01](images/01-base-board-assembly-manual.png)
+
 	![Base-board assembly manual 01](images/01_assembly-manual-base-board.png)
 
 	Then mount LED, LDO and comparator, all the capacitors and finilly Lisko board:
