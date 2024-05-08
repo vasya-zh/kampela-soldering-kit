@@ -13,7 +13,7 @@
 - any cleaning solvent to clean flux after assembly (isopropanol etc) 
 - and a good side cutters. 
 
-A printable version of the base-board Assembly Manual can be found [here](images/base-board-assembly-manual.svg).
+	A printable version of the base-board Assembly Manual can be found [here](images/base-board-assembly-manual.svg).
 
 1. Place and solder the FPC adapter board on the base-board with 6 soldering points:
 
