@@ -1,8 +1,7 @@
 ## Assembly instructions
 
-> [!SAFETY CAUTION]
-> Use the safety glass and fume extractor (simple 80mm PC vent suits too) too prevent cancer and eye deseases.
-
+> [!WARNING]
+> Use the safety glass and fume extractor (simple 80mm PC vent suits too) too prevent cancer and eye deseases.<br>
 > The sun is bright, the water is wet, a soldering iron is hot - be carefull!
 
 0. First you need to solder the base-board with soldering iron, soldering wire and a lot of flux
@@ -14,6 +13,10 @@
 
 2. Place and solder BB-PWR-3608 and BabyBuck 3.3V - red modules with short insulated or non insulated copper wires:
 ![Base-board assembly manual 01](images/02-base-board-assembly-manual.png)
+
+3. Solder all the resistors 10k, 47k and 300k in their places
+![Base-board assembly manual 01](images/03-base-board-assembly-manual.png)
+
 
 	![Base-board assembly manual 01](images/01_assembly-manual-base-board.png)
 
