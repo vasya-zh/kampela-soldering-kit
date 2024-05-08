@@ -28,9 +28,11 @@
 ![Base-board assembly manual 04](images/04-base-board-assembly-manual.png)
 
 5. Bend to 90 degrees (as short as possible) and solder 3mm red LED (or use the color you want) to the base-board. Check the polarity on the bottom side of the board.
+
 ![Base-board assembly manual 05](images/05-base-board-assembly-manual.png)
 
 6. Place and solder comparator IC (TLC372IP) and 24V linear regulator (L7824) as close to the board as possible (it will help you to make flat assembled device).
+
 ![Base-board assembly manual 06](images/06-base-board-assembly-manual.png)
 
 	![Base-board assembly manual 01](images/01_assembly-manual-base-board.png)
