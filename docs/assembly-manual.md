@@ -47,7 +47,7 @@
 
 9. Perfect! Now lets cut all the wires on the back side of the base board not higher than 0.5mm and clean the board from flux remains with isopropanol or other solvent
 
-![Base-board assembly manual 03](images/03_assembly-manual-base-board-cut.png)
+![Base-board assembly manual 09](images/09-base-board-assembly-manual.png)
 
 2. Solder the flex coil to the base board with 2 soldering points as shown below. Use water cleanable or non-clean flux, we don't want to demage flex coil sticker layer with solvent.
 
