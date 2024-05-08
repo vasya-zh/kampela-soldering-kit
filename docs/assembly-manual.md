@@ -8,8 +8,14 @@
 
 	Lets start with a FPC adapter, power modules, resistors and diodes:
 
-	1.Place and solder FPC adapter board on base-board with 6 soldering points:
+	1. Place and solder FPC adapter board on base-board with 6 soldering points:
 	![Base-board assembly manual 01](images/01-base-board-assembly-manual.png)
+
+	2. Place and solder BB-PWR-3608 and BabyBuck 3.3V - red modules with short insulated or non insulated copper wires:
+	![Base-board assembly manual 01](images/02-base-board-assembly-manual.png)
+
+	2. Place and solder BB-PWR-3608 and BabyBuck 3.3V - red modules with short insulated or non insulated copper wires:
+	![Base-board assembly manual 01](images/02-base-board-assembly-manual_.png)
 
 	![Base-board assembly manual 01](images/01_assembly-manual-base-board.png)
 
