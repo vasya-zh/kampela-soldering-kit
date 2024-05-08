@@ -1,18 +1,18 @@
 ## Assembly instructions
 
-0. First you need to solder the base-board with soldering iron, soldering wire and a lot of flux
-
 > [!CAUTION]
 > Don't forget to use a safety glass and fume extractor (simple 80mm PC vent suits too) too prevent cancer and eye deseases.
 > The sun is bright, the water is wet, a soldering iron is hot - be carefull!
 
-![Base-board assembly manual 01](images/01_assembly-manual-base-board.png)
+0. First you need to solder the base-board with soldering iron, soldering wire and a lot of flux
 
-![Base-board assembly manual 02](images/02_assembly-manual-base-board.png)
+	![Base-board assembly manual 01](images/01_assembly-manual-base-board.png)
+
+	![Base-board assembly manual 02](images/02_assembly-manual-base-board.png)
 
 1. Perfect! Now lets cut all the wires on the back side of the base board not higher than 0.5mm and clean the board from flux remains with isopropanol or other solvent
 
-![Base-board assembly manual 03](images/03_assembly-manual-base-board-cut.png)
+	![Base-board assembly manual 03](images/03_assembly-manual-base-board-cut.png)
 
 2. Solder the flex coil to the base board with 2 soldering points as shown below. Use water cleanable or non-clean flux, we don't want to demage flex coil sticker layer with solvent.
 
