@@ -1,7 +1,7 @@
 # kampela-soldering-kit
 Kampela Soldering Kit
 
-![kampela-soldering-kit title image](title-image.png)
+![kampela-soldering-kit title image](images/title-image.png)
 
 ## Overview
 
