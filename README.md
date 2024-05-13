@@ -1,9 +1,7 @@
 # kampela-soldering-kit
 Kampela Soldering Kit
 
-Solder Kit assembled render with marked elements
-
-Solder Kit assembled render front view
+![kampela-soldering-kit title image](title-image.png)
 
 ## Overview
 
