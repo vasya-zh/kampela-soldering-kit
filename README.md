@@ -1,5 +1,4 @@
 # kampela-soldering-kit
-Kampela Soldering Kit
 
 ![kampela-soldering-kit title image](images/title-image.png)
 
