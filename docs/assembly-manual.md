@@ -62,6 +62,8 @@
 
 4. Install assembled base-board to the enclosure, getting E-INK and Touch screen flex cables outside. Fix it to the enclosure with four M1.6x3 self-tapping screws.
 
+![soldering kit assembly manual 01](images/soldering-kit-assembly-manual-01.png)
+
 5. Bend and insert the E-INK and Touch screen flex cables (orange ones) into their connectors - E-INK cable goes to Lisko 24-pin connector, touch screen cable goes to the fpc adapter 6-pin connector.
 
 6. Unstick a protective layer on a flex coil and stick the coil in its place inside the enclosure.
