@@ -54,6 +54,8 @@
 
 2. Solder the flex coil to the base board with 2 soldering points as shown below. Use water-cleanable or non-clean flux, we don't want to damage the flex coil sticker layer with solvent.
 
+![Base-board assembly manual 10](images/10-base-board-assembly-manual.png)
+
 3. Stick the flex dumper to the back side of the 2.7" E-INK display to protect it from PCB back wires and to push it in place 
 
 3. Place the 2.7" E-INK display with a touch screen in the enclosure and push it to the upper edge of its place to align the visible area with the enclosure window. No need to fix it at this stage, it will be secured in place with a flex dumper after fixing the base-board PCB.
