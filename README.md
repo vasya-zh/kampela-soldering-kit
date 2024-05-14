@@ -30,7 +30,7 @@ Kampela solder kit consists of several off-the-shelf modules, simple electronic 
 
 **PCBs:**
 - 1pc - [Base-board](kicad/base-board/) - main Kampela soldering kit PCB
-- 1pc - flex nfc antenna PCB
+- 1pc - [flex nfc antenna](https://github.com/vasya-zh/kampela-soldering-kit/tree/v2/kicad/flex-coil8/production) PCB
 
 **3d printed parts:**
 - 1pc - [Solder kit enclosure](3d-models/solder-kit-enclosure.stl), 3d printed with transparent SLA resin

@@ -1,0 +1,28 @@
+Reference,Part Number,URL,Qty,LCSC Part #
+A1,Lisko A1,https://github.com/vasya-zh/Lisko,1,-
+A2,BB-PWR-3608,https://www.olimex.com/Products/Breadboarding/BB-PWR-3608/open-source-hardware,1,-
+A3,BabyBuck 3.3V,https://www.sparkfun.com/products/18357,1,-
+A4,Touch-6pin-adapter,https://github.com/vasya-zh/kampela-soldering-kit/tree/v2/kicad/touch-6pin-adapter,1,-
+,NFC tag,https://github.com/vasya-zh/kampela-soldering-kit/tree/v2/kicad/tag,1,-
+,Base-board PCB,https://github.com/vasya-zh/kampela-soldering-kit/tree/v2/kicad/base-board,1,-
+,Flex NFC antenna PCB,https://github.com/vasya-zh/kampela-soldering-kit/tree/v2/kicad/flex-coil8,1,-
+,Solder kit enclosure,https://github.com/vasya-zh/kampela-soldering-kit/blob/v2/3d-models/solder-kit-enclosure.stl,1,-
+,NFC tag enclosure,https://github.com/vasya-zh/kampela-soldering-kit/blob/v2/3d-models/nfc-tag-enclosure.stl,1,-
+,GDEY027T91-T01,https://www.good-display.com/product/259.html,1,-
+,M2x3 self-tapping screws,,4,-
+,"1mm thick 10mm double side tape, 2x50mm pieces",,2,-
+,UV transparent adhesive 30ml and UV curing LED,,1,-
+,,,,
+C1,15pF 100V,https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-Leaded_TORCH-CC4-0805-CG-50V-15pF-J_C123158.html,1,C123158
+"C2,C3",1uF 50V,https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-Leaded_KNSCHA-178MU0010_C5632434.html,2,C5632434
+"C4,C5",100pF 100V,https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-Leaded_Murata-Electronics-RCE5C2A101J0DBH03A_C1622101.html,2,C1622101
+"C6,C8","0,1uF 50V",https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-Leaded_KNSCHA-178MU0006_C5632430.html,2,C5632430
+C7,220uF 25V,https://www.lcsc.com/product-detail/Aluminum-Electrolytic-Capacitors-Leaded_CX-Dongguan-Chengxing-Elec-KM227M025E11RR0VH2FP0_C12450.html,1,C12450
+"D1,D2,D3,D4,D5,D8",1N5819,https://www.vishay.com/docs/88525/1n5817.pdf,6,C2474
+D6,XL-234SURD-L,https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_XINGLIGHT-XL-234SURD-L_C5440555.html,1,C5440555
+D7,1N4743A,https://www.nexperia.com/products/diodes/zener-diodes/1N4743A.html,1,C2546
+"R1,R7,R8,R9",10k,https://www.lcsc.com/product-detail/Through-Hole-Resistors_VO-MF1-8W-10K-1-ST26_C2903381.html,4,C2903381
+"R2,R3,R4,R5,R6,R11",47k,https://www.lcsc.com/product-detail/Through-Hole-Resistors_Futaba-Elec-RNU18F4702A520NH_C274421.html,6,C274421
+R10,300k,https://www.lcsc.com/product-detail/Through-Hole-Resistors_TyoHM-RN-1-8W-300K-F-T-B-A1_C433482.html,1,C433482
+U1,L7824,http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf,1,C903167
+U2,TLC372IP,https://www.ti.com/lit/ds/symlink/tlc372.pdf?ts=1714659513681&ref_url=https%253A%252F%252Fwww.google.com%252F,1,C2862094
