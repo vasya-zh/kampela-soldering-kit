@@ -1,0 +1,19 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+A1,Lisko_A01-DIP-only,1,Lisko_A01,-
+A2,BB-PWR-3608-in-board,1,BB-PWR-3608,-
+A3,SparkFun_BabyBuck_3.3V-in-board,1,BabyBuck 3.3V,-
+A4,touch-6pin-adapter,1, ,-
+C1,C_Disc_D5.0mm_W2.5mm_P2.50mm,1,15pF 100V,C123158
+"C2, C3",C_Disc_D5.0mm_W2.5mm_P2.50mm,2,1uF 50V,C5632434
+"C4, C5",C_Disc_D5.0mm_W2.5mm_P2.50mm,2,100pF 100V,C1622101
+"C6, C8",C_Disc_D5.0mm_W2.5mm_P2.50mm,2,"0,1uF 50V",C5632430
+C7,CAP_RADIAL_6.3_2.5_11_HOR-DIP,1,220uF 25V,C12450
+"D1, D2, D3, D4, D5, D8",D_DO-41_SOD81_P7.62mm_Horizontal,6,1N5819,C2474
+D6,LED_Rectangular_W3.0mm_H2.0mm,1,XL-234SURD-L,C5440555
+D7,D_DO-41_SOD81_P7.62mm_Horizontal,1,13V Zener,C2546
+"J1, J2",Pad_1.8x3,2,E_ANT,-
+"R1, R7, R8, R9",R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,4,10k,C2903381
+R10,R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,1,300k,C433482
+"R11, R2, R3, R4, R5, R6",R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,6,47k,C274421
+U1,TO-92_Inline,1,L7824,C903167
+U2,DIP-8_W7.62mm,1,TLC372IP,C2862094
