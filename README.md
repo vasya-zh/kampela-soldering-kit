@@ -75,7 +75,7 @@ You can use your solder kit as a transaction signer with the real [Kampela firmw
 
 To do that you need to flash it with the latest [binary firmware released](https://github.com/Kalapaja/kampela-firmware/tags) or build it from the [source code](https://github.com/Kalapaja/kampela-firmware)
 
-Or you can make your version of the firmware and hardware with all needed customisation.
+Or you can make your customized version of the firmware and hardware.
 
 ## How to produce your own Kampela Solder Kit
 
@@ -89,18 +89,18 @@ Or make your kit. To do that you need:
 
 ## About this design
 
-Schematic diagrams can be found [here](docs/)
+Schematic PDF diagrams can be found [here](docs/)
 
 KiCad projects can be found [here](kicad/)
 
-This kit was made with only open-source tools:
+This kit was made using only open-source tools:
 - [KiCad](https://www.kicad.org/) - for schematics and PCBs
 - [FreeCad](https://www.freecad.org/) - for enclosure design
 - [Blender](https://www.blender.org/) - for renders and images
 - [InkScape](https://inkscape.org/) - for instructions diagrams
 
 ## TODO
-- !change ePaper and touch screen RESET signal polarity in test and release firmware! 
+- ! Change ePaper and touch screen RESET signal polarity in test and release firmware! 
 
 ## Contributors
 
