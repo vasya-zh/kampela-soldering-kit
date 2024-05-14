@@ -62,7 +62,8 @@ Complete CSV BOM can be found [here](docs/kampela-soldering-kit-BOM.csv)
 
 Assembly instructions can be found here: [/docs/assembly-manual.md](docs/assembly-manual.md)
 
-!Note: don't fill your assembly with transparent UV adhesive before you fully test it and flash it with the right firmware.  
+> [!Note] 
+> Don't fill your assembly with transparent UV adhesive before you fully test it and flash it with the right firmware.  
 
 ## Flashing and testing
 
