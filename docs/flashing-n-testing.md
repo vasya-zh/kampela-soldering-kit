@@ -23,6 +23,8 @@ After assemby your soldering kit you need to test the hardware. To do that you n
 
 7. You can find instruction of using your Kampela in [kampela-firmware repo](https://github.com/Kalapaja/kampela-firmware)
 
+Or make your own [kampela-firmware](https://github.com/Kalapaja/kampela-firmware)
+
 ## How to flash your Lisko board
 
 First of all, you need to upload the flasher firmware:
@@ -77,6 +79,6 @@ Binary firmware can be uploaded to Lisko EFM32 MCU using [Pilkki software](https
 
 You can find test projects here:
 
-- In C - in folder [/test-firmware](test-firmware/)
+- In C - in [Lisko C test project](https://github.com/vasya-zh/Lisko/tree/A1/test-firmware)
 
 - Or in Rust - [Kampela project](https://github.com/Kalapaja/kampela-firmware)
