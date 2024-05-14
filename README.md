@@ -87,10 +87,20 @@ Or make your kit. To do that you need:
 - order or print enclosures with transparent SLA resin. STL and STEP files can be found [here](3d-models/)
 - if you want you can also make your version of [Lisko A1](https://github.com/vasya-zh/Lisko) board and [FPC adapter](https://github.com/vasya-zh/kampela-soldering-kit/tree/v2/kicad/touch-6pin-adapter) board. Overwise contact [kampela team](https://kampe.la)
 
+## About this design
+
+Schematic diagrams can be found [here](docs/)
+
+KiCad projects can be found [here](kicad/)
+
+This kit was made with only open-source tools:
+- [KiCad](https://www.kicad.org/) - for schematics and PCBs
+- [FreeCad](https://www.freecad.org/) - for enclosure design
+- [Blender](https://www.blender.org/) - for renders and images
+- [InkScape](https://inkscape.org/) - for instructions diagrams
+
 ## TODO
 - !change ePaper and touch screen RESET signal polarity in test and release firmware! 
-
-## Final thoughts
 
 ## Contributors
 
