@@ -6,7 +6,7 @@ After assemby your soldering kit you need to test the hardware. To do that you n
 
 2. Flash your Lisko flasher MCU (STM32) - instructions are [here](#How-to-flash-your-Lisko-board)
 
-3. After that flash [kampela-solder-kit test firmware binary](test-firmware/kampela-soldering-kit-test-firmware.bin) using [Pilkki software](https://github.com/Kalapaja/pilkki/tree/main/software) 
+3. After that flash [kampela-solder-kit test firmware binary](../test-firmware/kampela-soldering-kit-test-firmware.bin) using [Pilkki software](https://github.com/Kalapaja/pilkki/tree/main/software) 
 
 4. You can test everything except NFC power/data simply reconnecting USB cable. You should see several hardware tests on the screen with OK or ERROR results.
 
