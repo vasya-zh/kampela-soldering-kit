@@ -1,27 +1,27 @@
 # Testing and flashing instructions
 
-After assemby your soldering kit you need to test the hardware. To do that you need to go through a simple checklist
+After assembling your soldering kit you need to test the hardware. To do that you need to go through a simple checklist
 
-1. Visual inspection - check that all components soldered good without unnesessary connections or short circuits with soldering drops. Check that all the boards clean from flux remains and other contamination.
+1. Visual inspection - check that all components soldered well without unnecessary connections or short circuits with soldering drops. Check that all the boards are clean from flux remains and other contamination.
 
 2. Flash your Lisko flasher MCU (STM32) - instructions are [here](#How-to-flash-your-Lisko-board)
 
 3. After that flash [kampela-solder-kit test firmware binary](../test-firmware/kampela-soldering-kit-test-firmware.bin) using [Pilkki software](https://github.com/Kalapaja/pilkki/tree/main/software) 
 
-4. You can test everything except NFC power/data simply reconnecting USB cable. You should see several hardware tests on the screen with OK or ERROR results.
+4. You can test everything except NFC power/data by simply reconnecting the USB cable. You should see several hardware tests on the screen with OK or ERROR results.
 
 5. To test NFC power/data:
 
 	- Disconnect USB cable
 	- Turn on NFC on your smartphone
 	- Put NFC-tag inside your assembled Kampela-soldering kit
-	- Place Kampela with NFC-tag close to your smartphone's NFC antenna positions. You can find it googling in images or experimenting with NFC tag
-	- If NFC power present - RED LED on Kampela should light bright. Keep this position.
+	- Place Kampela with an NFC tag close to your smartphone's NFC antenna positions. You can find it by googling in images or experimenting with an NFC tag
+	- If NFC power is present - the RED LED on Kampela should light bright. Keep this position.
 	- In a couple of seconds the test firmware will start performing hardware tests showing results with OK or ERROR messages near each test
 
 6. Now you can flash your Kampela with the latest kampela firmware release from here using [Pilkki software](https://github.com/Kalapaja/pilkki/tree/main/software)
 
-7. You can find instruction of using your Kampela in [kampela-firmware repo](https://github.com/Kalapaja/kampela-firmware)
+7. You can find instructions for using your Kampela in [kampela-firmware repo](https://github.com/Kalapaja/kampela-firmware)
 
 	Or make your own [kampela-firmware](https://github.com/Kalapaja/kampela-firmware)
 
