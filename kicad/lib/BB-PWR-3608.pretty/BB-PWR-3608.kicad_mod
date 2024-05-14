@@ -1,0 +1,161 @@
+(footprint "BB-PWR-3608"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Through hole straight pin header, 1x04, 2.54mm pitch, single row")
+	(tags "Through hole pin header THT 1x04 2.54mm single row")
+	(property "Reference" "REF**"
+		(at 0.635 -12.065 0)
+		(layer "F.SilkS")
+		(uuid "d559e78f-9137-43bf-9f69-165532415fcf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "BB-PWR-3608"
+		(at 4.445 3.175 0)
+		(layer "F.Fab")
+		(uuid "348f53c9-f22c-45ad-a1c8-50113d0805cb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at -29.15 5.05 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "40034701-e541-4e53-9a20-f5d20211c621")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at -29.15 5.05 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5a5f7878-c5d6-4175-9324-a8662b431436")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at -29.15 5.05 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "88587ebf-e36e-4bd0-b670-7abe09e6b9b0")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -1.27 -10.429)
+		(end 13.919 -10.429)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2ca89541-d81f-4383-84a1-4e360c51440f")
+	)
+	(fp_line
+		(start -1.27 1.321)
+		(end -1.27 -10.429)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "144cf683-c05f-42e0-9ad3-424808a6a3e8")
+	)
+	(fp_line
+		(start 13.919 1.321)
+		(end -1.27 1.321)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d3e93cc0-5140-4fcb-aeb8-77013ee8b65f")
+	)
+	(fp_line
+		(start 13.919 1.321)
+		(end 13.919 -10.429)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1e58230e-53cd-4f18-8e9a-6136623bd1ae")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 6.35 -3.81 90)
+		(layer "F.Fab")
+		(uuid "6a275956-06fa-47ad-92b1-820393d36d11")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 1.27 -8.89)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "154cd23f-521c-47b4-b321-b81bccc55300")
+	)
+	(pad "2" thru_hole oval
+		(at 3.81 -8.89)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "73467b20-058f-45e4-ac84-184d62db7dc8")
+	)
+	(pad "3" thru_hole oval
+		(at 0 -2.54)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "70affaf9-cf8f-4cfc-b9e7-c80a572e37b4")
+	)
+	(pad "4" thru_hole oval
+		(at 0 0)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "7773fc0b-045f-44e0-9512-f82000fc06b7")
+	)
+	(model "C:/Users/vasil/Documents/GitHub/BB-PWR-3608-KiCad-Component/3dmodels/BB-PWR-3608_revA.STEP"
+		(offset
+			(xyz 0 0 2.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
