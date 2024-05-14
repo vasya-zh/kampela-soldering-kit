@@ -12,18 +12,18 @@ After assemby your soldering kit you need to test the hardware. To do that you n
 
 5. To test NFC power/data:
 
-- Disconnect USB cable
-- Turn on NFC on your smartphone
-- Put NFC-tag inside your assembled Kampela-soldering kit
-- Place Kampela with NFC-tag close to your smartphone's NFC antenna positions. You can find it googling in images or experimenting with NFC tag
-- If NFC power present - RED LED on Kampela should light bright. Keep this position.
-- In a couple of seconds the test firmware will start performing hardware tests showing results with OK or ERROR messages near each test
+	- Disconnect USB cable
+	- Turn on NFC on your smartphone
+	- Put NFC-tag inside your assembled Kampela-soldering kit
+	- Place Kampela with NFC-tag close to your smartphone's NFC antenna positions. You can find it googling in images or experimenting with NFC tag
+	- If NFC power present - RED LED on Kampela should light bright. Keep this position.
+	- In a couple of seconds the test firmware will start performing hardware tests showing results with OK or ERROR messages near each test
 
 6. Now you can flash your Kampela with the latest kampela firmware release from here using [Pilkki software](https://github.com/Kalapaja/pilkki/tree/main/software)
 
 7. You can find instruction of using your Kampela in [kampela-firmware repo](https://github.com/Kalapaja/kampela-firmware)
 
-Or make your own [kampela-firmware](https://github.com/Kalapaja/kampela-firmware)
+	Or make your own [kampela-firmware](https://github.com/Kalapaja/kampela-firmware)
 
 ## How to flash your Lisko board
 
